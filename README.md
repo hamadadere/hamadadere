@@ -9,12 +9,23 @@ Hi 👋, I'm Hamada
 🌱 Always learning, improving, and building impactful applications.
 
 🤝 Connect with Me:
+
 <p align="left">
-<a href="https://www.facebook.com/hamad.dere" target="_blank"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" width="36" height="36" /></a>
-<a href="https://www.instagram.com/hamada_dere" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="36" height="36" /></a>
-<a href="https://www.linkedin.com/in/hamada-dere-00940a31a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="36" height="36" /></a>
-<a href="https://t.me/Hamada_Dere_Flutter_Developer" target="_blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="36" height="36" /></a>
-<a href="mailto:hamadad54321@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="36" height="36" /></a>
+  <a href="https://www.facebook.com/hamad.dere" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" width="36" height="36" />
+  </a>
+  <a href="https://www.instagram.com/hamada_dere" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="36" height="36" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamada-dere-00940a31a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="36" height="36" />
+  </a>
+  <a href="https://t.me/Hamada_Dere" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="36" height="36" />
+  </a>
+  <a href="mailto:hamadad54321@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="36" height="36" />
+  </a>
 </p>
 
 🚀 Samples from my projects:
