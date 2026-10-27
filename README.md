@@ -5,10 +5,14 @@
 🌱 Always learning, improving, and building impactful applications.
 
 <p align="left">
-<a href="https://www.facebook.com/hamad.dere?mibextid=ZbWKwL" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" height="40" /></a>
+<a href="https://www.facebook.com/hamad.dere?mibextid=ZbWKwL" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" width="40" height="40" />
+</a>
 <a href="https://www.instagram.com/hamada_dere?igsh=MWpqZG45MTVuMjJqag==" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/hamada-dere-00940a31a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
-<a href="https://t.me/Hamada_Dere_Flutter_Developer" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" width="40" height="40" /></a>
+<a href="https://t.me/Hamada_Dere_Flutter_Developer" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="40" height="40" />
+</a>
 <a href="mailto:hamadad54321@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40" /></a>
 </p>
 
@@ -26,7 +30,9 @@ Voice-enabled calculator and advanced note-taking app with full CRUD functionali
 <p align="left">
 <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" /></a>
 <a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40" /></a>
-<a href="https://developer.android.com" target="_blank"><img src="https://skillicons.dev/icons?i=android" alt="Android" width="40" height="40" /></a>
+<a href="https://developer.android.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" width="40" height="40" />
+</a>
 <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" /></a>
 <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" /></a>
 <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" /></a>
