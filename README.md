@@ -1,6 +1,6 @@
-                                                          Hi 👋, I'm Hamada
+Hi 👋, I'm Hamada
                                                           
-                               Mobile App Developer with a knack for teaching programming to others
+📱 Mobile App Developer with a knack for teaching programming to others
 
 💻 Flutter Developer building scalable, user-friendly mobile applications.
 
@@ -39,4 +39,5 @@
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="36" height="36" /></a>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="36" height="36" /></a>
 </p>
+
 ⭐ Building apps, sharing knowledge, and growing every day.
