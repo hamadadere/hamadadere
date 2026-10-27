@@ -17,7 +17,7 @@ Hi 👋, I'm Hamada
 <a href="mailto:hamadad54321@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="36" height="36" /></a>
 </p>
 
-🚀 Featured Projects:
+🚀 Samples from my projects:
 - YallaChat — Communication app with voice/video calls, messaging, and stories.
 - CameraMuraqbApp — AI-powered face recognition for school and bus attendance.
 - MiskApp — Islamic app with offline Quran, Zakat calculator, Tasbih, and prayer times.
